@@ -4,6 +4,7 @@
 	"description": "Start template with Gulp and Webpack",
 	"author": "FLS",
 	"private": true,
+	"main": "gulpfile.js",
 	"license": "",
 	"type": "module",
 	"scripts": {
